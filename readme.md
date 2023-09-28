@@ -2,6 +2,9 @@
 
 The AI Image Generator is a web application that generates images based on user input using the power of AI. The user can enter a prompt, which is a phrase that describes the type of image they want to generate, and the application will generate images based on that prompt.
 
+![](source/Screenshot%202023-09-28%20at%206.58.56%20AM.png)
+![](source/Screenshot%202023-09-28%20at%207.08.02%20AM.png)
+
 ## Getting Started
 
 To get started with the AI Image Generator, simply clone the repository and open the `index.html` file in your web browser. You can then enter a prompt and click the "Generate" button to generate images.
